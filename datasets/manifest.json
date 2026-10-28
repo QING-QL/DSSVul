@@ -1,0 +1,89 @@
+{
+  "primevul": {
+    "rows": 224533,
+    "counts_NV_V": [
+      218529,
+      6004
+    ],
+    "fingerprint": "49bc305089b3ad2220d86c3f2f64a1fbe6a01bef6689a499bc5981b73a74b1d9",
+    "split_counts_NV_V": {
+      "labeled": [
+        17093,
+        486
+      ],
+      "unlabeled": [
+        153842,
+        4376
+      ],
+      "validation": [
+        23355,
+        593
+      ],
+      "test": [
+        24239,
+        549
+      ]
+    },
+    "split_file": "splits/primevul_seed42.json.gz",
+    "split_sha256": "910b6a05c85712f994800d5a3ca501c7d03675e39a13427c3f7f33202fa624c2",
+    "compressed_sha256": "cb25661b6331b6b2dc41d7f961d000a2ee9260b85f146c290936f74d9952ddb7"
+  },
+  "diversevul": {
+    "rows": 330491,
+    "counts_NV_V": [
+      311546,
+      18945
+    ],
+    "fingerprint": "cd89f420f27bfc8cdb10a1697b6af19778bd60cb8ebbb30f5a0ca41cbc92d0cf",
+    "split_counts_NV_V": {
+      "labeled": [
+        25141,
+        1525
+      ],
+      "unlabeled": [
+        226276,
+        13723
+      ],
+      "validation": [
+        34425,
+        1982
+      ],
+      "test": [
+        25704,
+        1715
+      ]
+    },
+    "split_file": "splits/diversevul_seed42.json.gz",
+    "split_sha256": "3041b341eb4e3d5ca755c8433fc54871b745c49ecb3c567c2ca85e13436fd1c1",
+    "compressed_sha256": "655ede482dcd9904f42f83b926ea0c485b24a3784dbf02e7bd3401d7a54b18d0"
+  },
+  "megavul": {
+    "rows": 340981,
+    "counts_NV_V": [
+      323532,
+      17449
+    ],
+    "fingerprint": "24652409d03916bd792936f57ab9d6629f876776901c1581724ee5e01f9e5699",
+    "split_counts_NV_V": {
+      "labeled": [
+        25854,
+        1406
+      ],
+      "unlabeled": [
+        232685,
+        12655
+      ],
+      "validation": [
+        32942,
+        1659
+      ],
+      "test": [
+        32051,
+        1729
+      ]
+    },
+    "split_file": "splits/megavul_seed42.json.gz",
+    "split_sha256": "c3ff7f25691175251916555eed401bec0908b7b7f49612d1366c8979309fe406",
+    "compressed_sha256": "1eefa7470b197c5b207a21955d5fef020efa0c871952e827030f92070c15fc6b"
+  }
+}
