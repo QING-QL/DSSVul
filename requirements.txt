@@ -1,0 +1,9 @@
+torch==2.7.1
+numpy==2.2.6
+scikit-learn==1.7.2
+torch-geometric==2.7.0
+transformers==4.57.3
+pandas==2.3.3
+pyarrow==22.0.0
+gensim==4.4.0
+huggingface-hub==0.36.2
